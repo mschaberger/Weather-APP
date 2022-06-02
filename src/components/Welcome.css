@@ -1,0 +1,10 @@
+.fraseWelcome {
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(66, 123, 150, 0.804);
+    color: rgb(205, 201, 201);
+    border-radius: 10px;
+    font-weight: 800;
+    padding: 30px;
+    margin: 220px;
+}

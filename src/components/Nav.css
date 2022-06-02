@@ -1,0 +1,21 @@
+#logoHenry {
+  margin-right: 20px;
+  margin-left: 15px;
+}
+
+#infoabout {
+  color: #1A374D;
+  letter-spacing: 1px;
+}
+
+.navbar { 
+  background: rgba(221, 218, 218, 0.514);
+  border-bottom: 1px solid rgba(255, 255, 255, .5);
+  padding: 20px;
+}
+
+.navItem{
+  text-decoration: none;
+  margin-right: 15px;
+  font-weight: bolder;
+}

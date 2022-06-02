@@ -1,0 +1,33 @@
+#ciudad {
+    align-self: center;
+    justify-self: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    background-color: rgba(128, 126, 126, 0.818);
+    margin-left: 490px;
+    margin-top: 40px;
+    padding: 50px;
+    width: 500px;
+    border-color: white;
+    border-style: double;
+}
+
+.cardHeader{
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+}
+
+.info{
+    text-align: justify;
+    font-size: 20px;
+    color: rgb(240, 240, 240);
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px 20px 65px;
+}
+
+.data{
+    padding-top: 10px;
+}

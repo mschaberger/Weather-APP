@@ -1,0 +1,26 @@
+.searchForm{
+    font-family: inherit;
+}
+
+.inputSearch{
+    border-radius: 8px;
+    border: none;
+    background-color: rgba(253, 247, 247, 0.68);
+    padding: 5px;
+}
+
+.button{
+    border-radius: 6px;
+    margin-left: 5px;
+    border: none;
+    justify-content: center;
+    padding: 5px;
+    color: rgb(96, 94, 94);
+}
+.button:hover{
+    border-color: rgb(96, 94, 94);
+    border-radius: 3px;
+    background-color: rgba(42, 69, 166, 0.794);
+    color: rgba(253, 247, 247, 0.68);
+    border-radius: 6px;
+}

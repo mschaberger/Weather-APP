@@ -1,0 +1,23 @@
+.card {
+  margin: 20px;
+  width: 18rem;
+  background-color: rgba(15, 36, 59, 0.479)
+}
+
+.card-title {
+  margin-bottom: 15px;
+  color: azure;
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+  color: azure;
+}

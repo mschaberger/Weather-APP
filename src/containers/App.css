@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+.App {
+  text-align: center;
+  background-image: url("../img/background.gif");
+  background-size: cover;
+  height: 800px;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.fraseWelcome {
+  margin-top: 150px;
+  font-size: x-large;
+}
