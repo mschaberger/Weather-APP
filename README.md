@@ -8,11 +8,11 @@ CHECK IT OUT!
 
 <br> </br>
 <p align="center">
-    <img height="400" src = "./img/homeWelcome.png"/>
+    <img height="400" src = "./src/img/homeWelcome.png"/>
     <br> </br>
-    <img height="400" src = "./img/homeCards.png"/>
+    <img height="400" src = "./src/img/homeCards.png"/>
     <br> </br>
-    <img height="400" src = "./img/cityDetail.png"/>
+    <img height="400" src = "./src/img/cityDetail.png"/>
     <br> </br>
-    <img height="400" src = "./img/about.png"/>
+    <img height="400" src = "./src/img/about.png"/>
 </p>
